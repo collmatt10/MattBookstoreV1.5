@@ -10,7 +10,7 @@
                 <div class="card-body">
                     This is the about page
                       <br/>
-                      Learn more <a href="{{route('about')}}">about us</a>
+
                 </div>
             </div>
         </div>

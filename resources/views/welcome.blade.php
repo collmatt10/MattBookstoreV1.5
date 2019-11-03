@@ -8,9 +8,11 @@
                 <div class="card-header">Welcome</div>
 
                 <div class="card-body">
-                    Welcome to Matts Bookstore! :)
-                    
-                </div>
+                    Welcome to Matts Bookstore! :) <a href="{{route('admin.books.index')}}">Books</a>
+
+                  <br/>
+                  Learn more <a href="{{route('about')}}">about us</a>
+                  </div>
             </div>
         </div>
     </div>
